@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="TestCases" >
+ <test name="p1 Test">
+ <groups>
+ <run>
+ <include name="p1"/>
+ </run> 
+ </groups>
+<classes>
+<class name="catalog.catalogpages.TestCases"/>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestCases" duration-ms="47167" started-at="2017-08-04T00:34:21Z" finished-at="2017-08-04T00:35:09Z">
+    <groups>
+      <group name="p1">
+        <method signature="TestCases.Testcase3()[pri:0, instance:catalog.catalogpages.TestCases@1805618]" name="Testcase3" class="catalog.catalogpages.TestCases"/>
+      </group> <!-- p1 -->
+    </groups>
+    <test name="p1 Test" duration-ms="47167" started-at="2017-08-04T00:34:21Z" finished-at="2017-08-04T00:35:09Z">
+      <class name="catalog.catalogpages.TestCases">
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:catalog.catalogpages.TestCases@1805618]" name="Testcase1" is-config="true" duration-ms="36766" started-at="2017-08-03T17:34:21Z" finished-at="2017-08-03T17:34:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase3()[pri:0, instance:catalog.catalogpages.TestCases@1805618]" name="Testcase3" duration-ms="10218" started-at="2017-08-03T17:34:58Z" finished-at="2017-08-03T17:35:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase3 -->
+      </class> <!-- catalog.catalogpages.TestCases -->
+    </test> <!-- p1 Test -->
+  </suite> <!-- TestCases -->
+</testng-results>

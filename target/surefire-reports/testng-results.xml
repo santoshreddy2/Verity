@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="catalog.catalogpages.TestCases" duration-ms="161643" started-at="2017-07-27T23:44:55Z" finished-at="2017-07-27T23:47:37Z">
+    <groups>
+      <group name="p1">
+        <method signature="TestCases.Testcase3()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase3" class="catalog.catalogpages.TestCases"/>
+      </group> <!-- p1 -->
+    </groups>
+    <test name="Command line test" duration-ms="161643" started-at="2017-07-27T23:44:55Z" finished-at="2017-07-27T23:47:37Z">
+      <class name="catalog.catalogpages.TestCases">
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase1" is-config="true" duration-ms="15207" started-at="2017-07-27T16:44:55Z" finished-at="2017-07-27T16:45:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="ReturningCustomer12()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="ReturningCustomer12" duration-ms="8273" started-at="2017-07-27T16:45:10Z" finished-at="2017-07-27T16:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReturningCustomer12 -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Test" is-config="true" duration-ms="2806" started-at="2017-07-27T16:45:18Z" finished-at="2017-07-27T16:45:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase1" is-config="true" duration-ms="10300" started-at="2017-07-27T16:45:21Z" finished-at="2017-07-27T16:45:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase10()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase10" duration-ms="5370" started-at="2017-07-27T16:45:32Z" finished-at="2017-07-27T16:45:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase10 -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Test" is-config="true" duration-ms="1002" started-at="2017-07-27T16:45:37Z" finished-at="2017-07-27T16:45:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase1" is-config="true" duration-ms="10316" started-at="2017-07-27T16:45:38Z" finished-at="2017-07-27T16:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase3()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase3" duration-ms="5708" started-at="2017-07-27T16:45:48Z" finished-at="2017-07-27T16:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase3 -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Test" is-config="true" duration-ms="1244" started-at="2017-07-27T16:45:54Z" finished-at="2017-07-27T16:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase1" is-config="true" duration-ms="9130" started-at="2017-07-27T16:45:55Z" finished-at="2017-07-27T16:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase4()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase4" duration-ms="5305" started-at="2017-07-27T16:46:04Z" finished-at="2017-07-27T16:46:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase4 -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Test" is-config="true" duration-ms="1130" started-at="2017-07-27T16:46:10Z" finished-at="2017-07-27T16:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase1" is-config="true" duration-ms="11629" started-at="2017-07-27T16:46:11Z" finished-at="2017-07-27T16:46:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase5()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase5" duration-ms="721" started-at="2017-07-27T16:46:22Z" finished-at="2017-07-27T16:46:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase5 -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Test" is-config="true" duration-ms="1197" started-at="2017-07-27T16:46:23Z" finished-at="2017-07-27T16:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase1" is-config="true" duration-ms="9331" started-at="2017-07-27T16:46:24Z" finished-at="2017-07-27T16:46:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase6()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase6" duration-ms="7531" started-at="2017-07-27T16:46:34Z" finished-at="2017-07-27T16:46:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase6 -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Test" is-config="true" duration-ms="972" started-at="2017-07-27T16:46:41Z" finished-at="2017-07-27T16:46:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase1" is-config="true" duration-ms="8782" started-at="2017-07-27T16:46:42Z" finished-at="2017-07-27T16:46:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase7()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase7" duration-ms="5129" started-at="2017-07-27T16:46:51Z" finished-at="2017-07-27T16:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase7 -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Test" is-config="true" duration-ms="976" started-at="2017-07-27T16:46:56Z" finished-at="2017-07-27T16:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase1" is-config="true" duration-ms="9378" started-at="2017-07-27T16:46:57Z" finished-at="2017-07-27T16:47:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase8()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase8" duration-ms="12747" started-at="2017-07-27T16:47:06Z" finished-at="2017-07-27T16:47:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase8 -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Test" is-config="true" duration-ms="1249" started-at="2017-07-27T16:47:19Z" finished-at="2017-07-27T16:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Testcase1()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase1" is-config="true" duration-ms="9540" started-at="2017-07-27T16:47:20Z" finished-at="2017-07-27T16:47:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase9()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Testcase9" duration-ms="5659" started-at="2017-07-27T16:47:30Z" finished-at="2017-07-27T16:47:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase9 -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:catalog.catalogpages.TestCases@eff760]" name="Test" is-config="true" duration-ms="961" started-at="2017-07-27T16:47:36Z" finished-at="2017-07-27T16:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- catalog.catalogpages.TestCases -->
+    </test> <!-- Command line test -->
+  </suite> <!-- catalog.catalogpages.TestCases -->
+</testng-results>
